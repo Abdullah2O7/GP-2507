@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702974145232",
+    "project_id": "graduationproject-4f4ab",
+    "storage_bucket": "graduationproject-4f4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702974145232:android:3bafeb5d8fca43c43064d5",
+        "android_client_info": {
+          "package_name": "com.example.splash_onboarding_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqz2zrzquYbpsvr2bmwymkUH3xWe2nFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

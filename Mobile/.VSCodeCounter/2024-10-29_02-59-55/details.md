@@ -1,0 +1,131 @@
+# Details
+
+Date : 2024-10-29 02:59:55
+
+Directory d:\\final project\\Graduation-Project
+
+Total : 116 files,  13034 codes, 754 comments, 1023 blanks, all 14811 lines
+
+[Summary](results.md) / Details / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Files
+| filename | language | code | comment | blank | total |
+| :--- | :--- | ---: | ---: | ---: | ---: |
+| [README.md](/README.md) | Markdown | 10 | 0 | 7 | 17 |
+| [analysis_options.yaml](/analysis_options.yaml) | YAML | 3 | 22 | 4 | 29 |
+| [android/app/build.gradle](/android/app/build.gradle) | Gradle | 45 | 8 | 9 | 62 |
+| [android/app/google-services.json](/android/app/google-services.json) | JSON | 29 | 0 | 0 | 29 |
+| [android/app/src/debug/AndroidManifest.xml](/android/app/src/debug/AndroidManifest.xml) | XML | 3 | 4 | 1 | 8 |
+| [android/app/src/main/AndroidManifest.xml](/android/app/src/main/AndroidManifest.xml) | XML | 36 | 11 | 2 | 49 |
+| [android/app/src/main/res/drawable-v21/launch_background.xml](/android/app/src/main/res/drawable-v21/launch_background.xml) | XML | 4 | 7 | 2 | 13 |
+| [android/app/src/main/res/drawable/launch_background.xml](/android/app/src/main/res/drawable/launch_background.xml) | XML | 4 | 7 | 2 | 13 |
+| [android/app/src/main/res/values-night/styles.xml](/android/app/src/main/res/values-night/styles.xml) | XML | 9 | 9 | 1 | 19 |
+| [android/app/src/main/res/values/styles.xml](/android/app/src/main/res/values/styles.xml) | XML | 9 | 9 | 1 | 19 |
+| [android/app/src/profile/AndroidManifest.xml](/android/app/src/profile/AndroidManifest.xml) | XML | 3 | 4 | 1 | 8 |
+| [android/build.gradle](/android/build.gradle) | Gradle | 16 | 0 | 3 | 19 |
+| [android/gradle.properties](/android/gradle.properties) | Properties | 3 | 0 | 1 | 4 |
+| [android/gradle/wrapper/gradle-wrapper.properties](/android/gradle/wrapper/gradle-wrapper.properties) | Properties | 5 | 0 | 1 | 6 |
+| [android/settings.gradle](/android/settings.gradle) | Gradle | 22 | 2 | 5 | 29 |
+| [devtools_options.yaml](/devtools_options.yaml) | YAML | 3 | 0 | 1 | 4 |
+| [firebase.json](/firebase.json) | JSON | 1 | 0 | 0 | 1 |
+| [ios/RunnerTests/RunnerTests.swift](/ios/RunnerTests/RunnerTests.swift) | Swift | 7 | 2 | 4 | 13 |
+| [ios/Runner/AppDelegate.swift](/ios/Runner/AppDelegate.swift) | Swift | 12 | 0 | 2 | 14 |
+| [ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json](/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json) | JSON | 122 | 0 | 1 | 123 |
+| [ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json](/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json) | JSON | 23 | 0 | 1 | 24 |
+| [ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md](/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md) | Markdown | 3 | 0 | 2 | 5 |
+| [ios/Runner/Base.lproj/LaunchScreen.storyboard](/ios/Runner/Base.lproj/LaunchScreen.storyboard) | XML | 36 | 1 | 1 | 38 |
+| [ios/Runner/Base.lproj/Main.storyboard](/ios/Runner/Base.lproj/Main.storyboard) | XML | 25 | 1 | 1 | 27 |
+| [ios/Runner/Runner-Bridging-Header.h](/ios/Runner/Runner-Bridging-Header.h) | C++ | 1 | 0 | 1 | 2 |
+| [lib/Logo/splashScreen.dart](/lib/Logo/splashScreen.dart) | Dart | 51 | 3 | 8 | 62 |
+| [lib/Registeration/auth_service.dart](/lib/Registeration/auth_service.dart) | Dart | 47 | 8 | 18 | 73 |
+| [lib/Registeration/forgetpassword.dart](/lib/Registeration/forgetpassword.dart) | Dart | 224 | 10 | 19 | 253 |
+| [lib/Registeration/login.dart](/lib/Registeration/login.dart) | Dart | 292 | 7 | 21 | 320 |
+| [lib/Registeration/newPassword.dart](/lib/Registeration/newPassword.dart) | Dart | 257 | 2 | 17 | 276 |
+| [lib/Registeration/registeration.dart](/lib/Registeration/registeration.dart) | Dart | 200 | 1 | 5 | 206 |
+| [lib/Registeration/sign-up.dart](/lib/Registeration/sign-up.dart) | Dart | 378 | 14 | 20 | 412 |
+| [lib/Registeration/verification.dart](/lib/Registeration/verification.dart) | Dart | 219 | 6 | 12 | 237 |
+| [lib/components/ButtonBar.dart](/lib/components/ButtonBar.dart) | Dart | 270 | 5 | 12 | 287 |
+| [lib/components/Ellipses.dart](/lib/components/Ellipses.dart) | Dart | 81 | 4 | 3 | 88 |
+| [lib/components/FAQCard.dart](/lib/components/FAQCard.dart) | Dart | 39 | 1 | 2 | 42 |
+| [lib/components/card.dart](/lib/components/card.dart) | Dart | 112 | 7 | 4 | 123 |
+| [lib/constant/Colors.dart](/lib/constant/Colors.dart) | Dart | 5 | 0 | 4 | 9 |
+| [lib/constant/answers.dart](/lib/constant/answers.dart) | Dart | 4 | 0 | 0 | 4 |
+| [lib/firebase_options.dart](/lib/firebase_options.dart) | Dart | 68 | 12 | 7 | 87 |
+| [lib/home.dart](/lib/home.dart) | Dart | 187 | 7 | 5 | 199 |
+| [lib/main.dart](/lib/main.dart) | Dart | 26 | 12 | 9 | 47 |
+| [lib/views/ConatctUspage/contactUsPage.dart](/lib/views/ConatctUspage/contactUsPage.dart) | Dart | 205 | 3 | 11 | 219 |
+| [lib/views/DeleteAccountPage/DeleteDataPage.dart](/lib/views/DeleteAccountPage/DeleteDataPage.dart) | Dart | 251 | 3 | 7 | 261 |
+| [lib/views/DepOrBi_Test.dart](/lib/views/DepOrBi_Test.dart) | Dart | 142 | 2 | 4 | 148 |
+| [lib/views/DepressionOrBipolarTest/DepOrBi.dart](/lib/views/DepressionOrBipolarTest/DepOrBi.dart) | Dart | 601 | 5 | 17 | 623 |
+| [lib/views/DepressionOrBipolarTest/DepOrBilastpage.dart](/lib/views/DepressionOrBipolarTest/DepOrBilastpage.dart) | Dart | 118 | 10 | 16 | 144 |
+| [lib/views/DepressionOrBipolarTest/Result2DepOrBi.dart](/lib/views/DepressionOrBipolarTest/Result2DepOrBi.dart) | Dart | 269 | 54 | 11 | 334 |
+| [lib/views/DepressionOrBipolarTest/ResultDepOrBi.dart](/lib/views/DepressionOrBipolarTest/ResultDepOrBi.dart) | Dart | 106 | 0 | 4 | 110 |
+| [lib/views/FAQPage.dart](/lib/views/FAQPage.dart) | Dart | 264 | 2 | 13 | 279 |
+| [lib/views/General_Test.dart](/lib/views/General_Test.dart) | Dart | 141 | 1 | 4 | 146 |
+| [lib/views/InstructionScreen.dart](/lib/views/InstructionScreen.dart) | Dart | 233 | 2 | 8 | 243 |
+| [lib/views/LoginActivityPage/LoginActivityPage.dart](/lib/views/LoginActivityPage/LoginActivityPage.dart) | Dart | 180 | 5 | 11 | 196 |
+| [lib/views/LoginActivityPage/component/PreviosLogInCard.dart](/lib/views/LoginActivityPage/component/PreviosLogInCard.dart) | Dart | 53 | 0 | 5 | 58 |
+| [lib/views/PreviosTestPage/PreviousTestPage.dart](/lib/views/PreviosTestPage/PreviousTestPage.dart) | Dart | 174 | 8 | 13 | 195 |
+| [lib/views/PreviosTestPage/component/ResultCard.dart](/lib/views/PreviosTestPage/component/ResultCard.dart) | Dart | 77 | 0 | 4 | 81 |
+| [lib/views/PrivacySettingPage/PrivacySettingPage.dart](/lib/views/PrivacySettingPage/PrivacySettingPage.dart) | Dart | 272 | 12 | 3 | 287 |
+| [lib/views/UserProfile.dart](/lib/views/UserProfile.dart) | Dart | 431 | 30 | 6 | 467 |
+| [lib/views/accountsetting.dart](/lib/views/accountsetting.dart) | Dart | 475 | 26 | 24 | 525 |
+| [lib/views/changepassword.dart](/lib/views/changepassword.dart) | Dart | 251 | 11 | 21 | 283 |
+| [lib/views/confirmpasswordfordeleteaccount.dart](/lib/views/confirmpasswordfordeleteaccount.dart) | Dart | 228 | 2 | 15 | 245 |
+| [lib/views/edituserprofile.dart](/lib/views/edituserprofile.dart) | Dart | 497 | 17 | 26 | 540 |
+| [lib/views/firebase_notifications/firebase_notifications.dart](/lib/views/firebase_notifications/firebase_notifications.dart) | Dart | 94 | 14 | 20 | 128 |
+| [lib/views/generaltest.dart](/lib/views/generaltest.dart) | Dart | 527 | 12 | 15 | 554 |
+| [lib/views/gentestlastpage.dart](/lib/views/gentestlastpage.dart) | Dart | 122 | 12 | 15 | 149 |
+| [lib/views/getintouch.dart](/lib/views/getintouch.dart) | Dart | 332 | 11 | 17 | 360 |
+| [lib/views/journalPages/journal1.dart](/lib/views/journalPages/journal1.dart) | Dart | 174 | 9 | 14 | 197 |
+| [lib/views/journalPages/journalPage.dart](/lib/views/journalPages/journalPage.dart) | Dart | 378 | 12 | 17 | 407 |
+| [lib/views/journalPages/journalYearPage.dart](/lib/views/journalPages/journalYearPage.dart) | Dart | 268 | 3 | 24 | 295 |
+| [lib/views/journalPages/updateandaskgemini.dart](/lib/views/journalPages/updateandaskgemini.dart) | Dart | 275 | 7 | 27 | 309 |
+| [lib/views/journalPages/widgets/JournalData.dart](/lib/views/journalPages/widgets/JournalData.dart) | Dart | 66 | 0 | 4 | 70 |
+| [lib/views/journalPages/widgets/JournalYearData.dart](/lib/views/journalPages/widgets/JournalYearData.dart) | Dart | 34 | 12 | 5 | 51 |
+| [lib/views/models/question.dart](/lib/views/models/question.dart) | Dart | 5 | 0 | 2 | 7 |
+| [lib/views/notifications/notifications.dart](/lib/views/notifications/notifications.dart) | Dart | 278 | 7 | 15 | 300 |
+| [lib/views/reasonfordeleteaccount.dart](/lib/views/reasonfordeleteaccount.dart) | Dart | 151 | 3 | 8 | 162 |
+| [lib/views/requestdata/requestdata.dart](/lib/views/requestdata/requestdata.dart) | Dart | 241 | 1 | 9 | 251 |
+| [lib/views/result1.dart](/lib/views/result1.dart) | Dart | 106 | 0 | 3 | 109 |
+| [lib/views/resultPage2.dart](/lib/views/resultPage2.dart) | Dart | 263 | 61 | 14 | 338 |
+| [lib/views/splashfile/slidingtext.dart](/lib/views/splashfile/slidingtext.dart) | Dart | 25 | 0 | 4 | 29 |
+| [lib/views/splashfile/splashbody.dart](/lib/views/splashfile/splashbody.dart) | Dart | 56 | 5 | 15 | 76 |
+| [lib/views/splashfile/splashview.dart](/lib/views/splashfile/splashview.dart) | Dart | 13 | 0 | 5 | 18 |
+| [lib/views/widgets/custom_button.dart](/lib/views/widgets/custom_button.dart) | Dart | 56 | 0 | 8 | 64 |
+| [lib/views/widgets/custom_widgets.dart](/lib/views/widgets/custom_widgets.dart) | Dart | 95 | 1 | 12 | 108 |
+| [lib/views/widgets/navigateor.dart](/lib/views/widgets/navigateor.dart) | Dart | 19 | 1 | 4 | 24 |
+| [linux/CMakeLists.txt](/linux/CMakeLists.txt) | CMake | 118 | 0 | 28 | 146 |
+| [linux/flutter/CMakeLists.txt](/linux/flutter/CMakeLists.txt) | CMake | 79 | 0 | 10 | 89 |
+| [linux/flutter/generated_plugin_registrant.cc](/linux/flutter/generated_plugin_registrant.cc) | C++ | 11 | 4 | 5 | 20 |
+| [linux/flutter/generated_plugin_registrant.h](/linux/flutter/generated_plugin_registrant.h) | C++ | 5 | 5 | 6 | 16 |
+| [linux/flutter/generated_plugins.cmake](/linux/flutter/generated_plugins.cmake) | CMake | 20 | 0 | 6 | 26 |
+| [linux/main.cc](/linux/main.cc) | C++ | 5 | 0 | 2 | 7 |
+| [linux/my_application.cc](/linux/my_application.cc) | C++ | 82 | 17 | 26 | 125 |
+| [linux/my_application.h](/linux/my_application.h) | C++ | 7 | 7 | 5 | 19 |
+| [macos/Flutter/GeneratedPluginRegistrant.swift](/macos/Flutter/GeneratedPluginRegistrant.swift) | Swift | 20 | 3 | 4 | 27 |
+| [macos/RunnerTests/RunnerTests.swift](/macos/RunnerTests/RunnerTests.swift) | Swift | 7 | 2 | 4 | 13 |
+| [macos/Runner/AppDelegate.swift](/macos/Runner/AppDelegate.swift) | Swift | 8 | 0 | 2 | 10 |
+| [macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json](/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json) | JSON | 68 | 0 | 1 | 69 |
+| [macos/Runner/Base.lproj/MainMenu.xib](/macos/Runner/Base.lproj/MainMenu.xib) | XML | 343 | 0 | 1 | 344 |
+| [macos/Runner/MainFlutterWindow.swift](/macos/Runner/MainFlutterWindow.swift) | Swift | 12 | 0 | 4 | 16 |
+| [pubspec.yaml](/pubspec.yaml) | YAML | 54 | 47 | 18 | 119 |
+| [test/widget_test.dart](/test/widget_test.dart) | Dart | 14 | 10 | 7 | 31 |
+| [web/index.html](/web/index.html) | HTML | 19 | 15 | 5 | 39 |
+| [web/manifest.json](/web/manifest.json) | JSON | 35 | 0 | 1 | 36 |
+| [windows/CMakeLists.txt](/windows/CMakeLists.txt) | CMake | 89 | 0 | 20 | 109 |
+| [windows/flutter/CMakeLists.txt](/windows/flutter/CMakeLists.txt) | CMake | 98 | 0 | 12 | 110 |
+| [windows/flutter/generated_plugin_registrant.cc](/windows/flutter/generated_plugin_registrant.cc) | C++ | 12 | 4 | 5 | 21 |
+| [windows/flutter/generated_plugin_registrant.h](/windows/flutter/generated_plugin_registrant.h) | C++ | 5 | 5 | 6 | 16 |
+| [windows/flutter/generated_plugins.cmake](/windows/flutter/generated_plugins.cmake) | CMake | 21 | 0 | 6 | 27 |
+| [windows/runner/CMakeLists.txt](/windows/runner/CMakeLists.txt) | CMake | 34 | 0 | 7 | 41 |
+| [windows/runner/flutter_window.cpp](/windows/runner/flutter_window.cpp) | C++ | 49 | 7 | 16 | 72 |
+| [windows/runner/flutter_window.h](/windows/runner/flutter_window.h) | C++ | 20 | 5 | 9 | 34 |
+| [windows/runner/main.cpp](/windows/runner/main.cpp) | C++ | 30 | 4 | 10 | 44 |
+| [windows/runner/resource.h](/windows/runner/resource.h) | C++ | 9 | 6 | 2 | 17 |
+| [windows/runner/utils.cpp](/windows/runner/utils.cpp) | C++ | 54 | 2 | 10 | 66 |
+| [windows/runner/utils.h](/windows/runner/utils.h) | C++ | 8 | 6 | 6 | 20 |
+| [windows/runner/win32_window.cpp](/windows/runner/win32_window.cpp) | C++ | 210 | 24 | 55 | 289 |
+| [windows/runner/win32_window.h](/windows/runner/win32_window.h) | C++ | 48 | 31 | 24 | 103 |
+
+[Summary](results.md) / Details / [Diff Summary](diff.md) / [Diff Details](diff-details.md)

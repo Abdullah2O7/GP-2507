@@ -1,4 +1,6 @@
 # MALAZ
+AI-powered mental health diagnostics and 
+personalized alternative therapy recommendations
 
 ## Resources:
 
